@@ -1,5 +1,3 @@
-# UpTask_MERN_frontend
-MERN Stack project with TailwindCSS, Headless UI, Context API, Socket IO - Frontend
 
 <h1 align="center">UpTask</h1>
 
